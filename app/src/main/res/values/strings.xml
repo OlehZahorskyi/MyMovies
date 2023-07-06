@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="overview">Overview</string>
+    <string name="user_score">User score:</string>
+    <string name="year">year</string>
+    <string name="trending">Trending</string>
+    <string name="top_rated">Top rated</string>
+</resources>
